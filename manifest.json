@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Super Mario Mash-up Pack",
+    "name": "Super Mario Mash-Up Pack",
+    "uuid": "eb21954d-c06c-4a1e-a623-25110edb2aff",
+    "version": [ 1, 0, 1 ],
+    "min_engine_version": [ 1, 13, 1 ]
+  },
+  "modules": [
+    {
+      "description": "Super Mario Mash-up Pack for Bedrock",
+      "type": "resources",
+      "uuid": "b59c0a64-5e56-4b03-a2b7-25f4bd206859",
+      "version": [ 1, 0, 0 ]
+    }
+  ],
+  "capabilities": [
+    "raytraced"
+  ]
+}
