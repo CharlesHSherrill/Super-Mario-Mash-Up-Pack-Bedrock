@@ -3662,21 +3662,5 @@
   "yellow_glazed_terracotta": {
     "sound": "stone",
     "textures": "yellow_glazed_terracotta"
-  },
-  "beta64:castlewindownorth": {
-    "textures": "castlewindow",
-    "sound": "glass"
-  },
-  "beta64:castlewindowsouth": {
-    "textures": "castlewindow",
-    "sound": "glass"
-  },
-  "beta64:castlewindoweast": {
-    "textures": "castlewindow",
-    "sound": "glass"
-  },
-  "beta64:castlewindowwest": {
-    "textures": "castlewindow",
-    "sound": "glass"
   }
 }
