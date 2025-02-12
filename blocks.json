@@ -79,18 +79,6 @@
       "up": "anvil_top_damaged_x"
     }
   },
-  "azalea": {
-    "sound": "azalea",
-    "textures": {
-      "down": "potted_azalea_bush_top",
-      "east": "azalea_plant",
-      "north": "azalea_side",
-      "side": "azalea_side",
-      "south": "potted_azalea_bush_side",
-      "up": "azalea_top",
-      "west": "potted_azalea_bush_plant"
-    }
-  },
   "azalea_leaves": {
     "isotropic": {
       "down": false,
@@ -1331,18 +1319,6 @@
   },
   "flower_pot": {
     "textures": "flower_pot"
-  },
-  "flowering_azalea": {
-    "sound": "azalea",
-    "textures": {
-      "down": "potted_flowering_azalea_bush_top",
-      "east": "azalea_plant",
-      "north": "flowering_azalea_side",
-      "side": "flowering_azalea_side",
-      "south": "potted_flowering_azalea_bush_side",
-      "up": "flowering_azalea_top",
-      "west": "potted_flowering_azalea_bush_plant"
-    }
   },
   "flowing_lava": {
     "textures": {
