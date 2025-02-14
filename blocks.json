@@ -1710,7 +1710,6 @@
     }
   },
   "leaves": {
-    "brightness_gamma": 0.80,
     "carried_textures": "leaves_carried",
     "isotropic": {
       "down": false,
@@ -1720,7 +1719,6 @@
     "textures": "leaves"
   },
   "leaves2": {
-    "brightness_gamma": 0.80,
     "carried_textures": "leaves_carried2",
     "isotropic": {
       "down": false,
@@ -1964,7 +1962,6 @@
     "textures": "mangrove_planks"
   },
   "mangrove_leaves": {
-    "brightness_gamma": 0.80,
     "carried_textures": "mangrove_leaves_carried",
     "sound": "grass",
     "textures": "mangrove_leaves"
