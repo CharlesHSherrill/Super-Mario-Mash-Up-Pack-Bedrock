@@ -1,0 +1,16 @@
+{  
+  "creeper:entity_alphatest": {},
+  "blaze_head:entity_emissive_alpha": {},
+  "blaze_body:entity_emissive_alpha": {},
+  "sheep:entity_alphatest_change_color": {},
+  "wolf:entity_alphatest_change_color": {},
+  "enderman:entity_emissive_alpha": {},
+  "spider:entity_emissive_alpha": {},
+  "silverfish:entity_alphatest": {},
+  "chicken:entity_alphatest": {},
+  "golem:entity_alphatest": {},
+  "panda:entity_alphatest": {},
+  "ghast:entity_alphatest": {},
+  "dolphin:entity_alphatest": {},
+  "copper_golem:entity_alphatest": {}
+}
